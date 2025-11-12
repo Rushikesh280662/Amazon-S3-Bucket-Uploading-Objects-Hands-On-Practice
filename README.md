@@ -1,4 +1,4 @@
-# ☁️Hands-on Practice: Amazon S3 Upload & Access an Image Using ACL (Enable / Disable)
+# ☁️Hands-on Practice: Amazon S3 Upload & Access an Image Using ACL (Enable)
 
 ## 📘Overview
 This hands-on lab shows how to create S3 buckets, upload an image object, and verify browser access using different ACL-related settings. You will perform two flows:
